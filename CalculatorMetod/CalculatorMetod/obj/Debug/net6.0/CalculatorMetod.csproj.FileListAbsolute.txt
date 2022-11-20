@@ -1,0 +1,15 @@
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\bin\Debug\net6.0\CalculatorMetod.exe
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\bin\Debug\net6.0\CalculatorMetod.deps.json
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\bin\Debug\net6.0\CalculatorMetod.runtimeconfig.json
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\bin\Debug\net6.0\CalculatorMetod.dll
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\bin\Debug\net6.0\CalculatorMetod.pdb
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\obj\Debug\net6.0\CalculatorMetod.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\obj\Debug\net6.0\CalculatorMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\obj\Debug\net6.0\CalculatorMetod.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\obj\Debug\net6.0\CalculatorMetod.AssemblyInfo.cs
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\obj\Debug\net6.0\CalculatorMetod.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\obj\Debug\net6.0\CalculatorMetod.dll
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\obj\Debug\net6.0\refint\CalculatorMetod.dll
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\obj\Debug\net6.0\CalculatorMetod.pdb
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\obj\Debug\net6.0\CalculatorMetod.genruntimeconfig.cache
+C:\Users\Mehemmed\source\repos\CalculatorMetod\CalculatorMetod\obj\Debug\net6.0\ref\CalculatorMetod.dll
